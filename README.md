@@ -13,7 +13,7 @@ brew install --cask ekeminusyou/lazypencil/lazypencil
 brew upgrade --cask lazypencil
 ```
 
-Supported releases require Apple Silicon and macOS 15.7.9 or later. Check the
+Supported releases require Apple Silicon and macOS Tahoe 26 or later. Check the
 upstream documentation for supported terminals and optional runtime setup.
 
 ## Maintenance
